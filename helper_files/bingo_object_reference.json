@@ -1,0 +1,339 @@
+{
+    "family": [ 
+        {
+            "Mary": {
+                "image": "./images/portraits/Mary.jpeg",
+                "unused": [
+                    "Sewed a beautiful light blue formal for Colleen to wear as a bridesmaid for her friend’s wedding.", 
+                    "Lived in an old church, up in Brigham, that she helped convert into a home.", 
+                    "Sewed a beautiful rust colored suit for her daughter in law."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Nana": {
+                "image": "./images/portraits/Mora.jpeg",
+                "unused": [
+                    "When serving pie said, “pie only comes in 1 size” – BIG!!",
+                    "Had a large garden of irises and gladiolas that she sold on Memorial Day.  We have some of those beautiful irises growing in our yard today.",
+                    "Never drove a car."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Grandma Maisey": {
+                "image": "./images/portraits/Priscilla.jpeg",
+                "unused": [
+                    "Lived across the street from and loved serving in the Logan temple.",
+                    "Got all dolled up to attend dances at the Golden Hours center.",
+                    "Was the youngest of 13 children."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Grandpa Harry": {
+                "image": "./images/portraits/Harry.jpeg",
+                "unused": [
+                    "Was called into active service following the “Bay of Pigs’ incident in 1962.",
+                    "Cooked matza meal pancakes for his family every Christmas morning.",
+                    "Led the family in singing when they drove in the car. “Toity Poiple Boids” “ I’ve been working on the Railroad” “5 foot 2”  “Mares Eat Oats” …"
+                ],
+                "used": []
+            }
+        },
+        {
+            "Grandma Betty": {
+                "image": "./images/portraits/Betty.jpeg",
+                "unused": [
+                    "Sewed a red, white, and blue clown costume for her 8 year old daughter, who has now shared it with her  children.  This costume still survives today!",
+                    "Loved being a surgical nurse – which inspired all 3 or her daughters to go into nursing.",
+                    "Put up 100s of bottles of fruit every summer.  They looked beautiful and tasted delicious."
+                ],
+                "used": []
+            }
+        },
+        {
+            "John": {
+                "image": "./images/portraits/John.jpeg",
+                "unused": [
+                    "Had 14 jobs between the ages 14 and 28",
+                    "Protected many an Ogden High quarterback with his brute strength while playing center on the OHS football team.",
+                    "Favorite class when attending Weber State University was Human Anatomy and Physiology.",
+                    "Served a mission to Chile – the whole country!"
+                ],
+                "used": []
+            }
+        },
+        {
+            "Colleen": {
+                "image": "./images/portraits/Colleen.jpeg",
+                "unused": [
+                    "Graduated as a registered nurse.",
+                    "Can recite the Articles of Faith in English and Spanish.",
+                    "Loves to play piano duets with her kids and grandkids."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Holly": {
+                "image": "./images/portraits/Holly.jpeg",
+                "unused": [
+                    "Was a long distance swimmer for the OHS swim team. Once during a relay race, she excitedly took off – a little early – and landed on her fellow teammate. (Only one person’s ego was bruised)😊",
+                    "Received a Bachelor of Arts in English with a Spanish Literature minor from West Virginia University.",
+                    "Would like to sing with a band on stage, with Nathan as a back up dancer and Cassie as stage manager!"
+                ],
+                "used": []
+            }
+        },
+        {
+            "Alli": {
+                "image": "./images/portraits/Holly.jpeg",
+                "unused": [
+                    "Works at Grandpa John and Nathan’s office.",
+                    "Graduated with a degree in Graphic Design – Spring 2021!",
+                    "Her favorite animal is a cat named Charlotte Charles, aka Charlie."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Nathan": {
+                "image": "./images/portraits/Nathan.jpeg",
+                "unused": [
+                    "Served a mission in Rio de Janiero, Brazil.",
+                    "Stood before a judge for ----- skipping jury duty.",
+                    "Spent some of the quarantine months digging up his backyard to create a personalized soccer/volleyball complex."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Stacey": {
+                "image": "./images/portraits/Stacey.jpeg",
+                "unused": [
+                    "Has traveled to 15 different countries.",
+                    "Has created many beautiful works of art.",
+                    "Is very involved in her community – serving on refugee resettlement boards, helping with nature center fundraising events and serving on PTA boards, to name a few."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Katelyn": {
+                "image": "./images/portraits/Katelyn.jpeg",
+                "unused": [
+                    "Favorite board game is “Clue”.",
+                    "Played softball and lettered in tennis at Ogden High School while in the 9th grade.",
+                    "Starred in the school musical “Dear Edwina”, charming the audience with her clear soprano and sparkling personality."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Sarah": {
+                "image": "./images/portraits/Sarah.jpeg",
+                "unused": [
+                    "Received a 4.0 in school this year.",
+                    "Set a new school record for girls in her grade in push ups and sit ups this year.",
+                    "Is a multisport athlete – participating and excelling in track (long jump, high jump, the 200 meter run and relays), along with volleyball.",
+                    "Loves anything mint chocolate chip."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Abby": {
+                "image": "./images/portraits/Abigail.jpeg",
+                "unused": [
+                    "Is a fierce competitor on the soccer field and basketball court.",
+                    "This person is a lefty.",
+                    "Has been accepted to the private charter school “Ascend”."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Andrew": {
+                "image": "./images/portraits/Andrew.jpeg",
+                "unused": [
+                    "Excellent runner. Has taken first place in the 100 meter, 800 meter and 3K cross country runs this year.",
+                    "Loves Legos and building projects.",
+                    "Loves all sports and has boundless energy."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Laura": {
+                "image": "./images/portraits/Laura.jpeg",
+                "unused": [
+                    "Has recently signed up to be on her first soccer team.",
+                    "This person is strong - likes to do pushups and head stands and work outs with her family.  (You should challenge her to a bar hang 😊)",
+                    "She loves to wear fancy dresses (the fancier the better). Sometimes even when hiking 😊"
+                ],
+                "used": []
+            }
+        },
+        {
+            "Heather": {
+                "image": "./images/portraits/Heather.jpeg",
+                "unused": [
+                    "Will not let anyone take off with your coat – if she can help it! (“Bring back Holly’s coat!!!”)",
+                    "Paddled from Mukilteo to Whidbey Island on a paddle board.",
+                    "Has edited college applications for more than 40 high school and graduate students."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Dan": {
+                "image": "./images/portraits/Dan.jpeg",
+                "unused": [
+                    "Has recently completed his Lead Rock Climbing Certification.",
+                    "Can speak English, Spanish, French and Italian.",
+                    "Had 22 mission companions while serving on his mission in Spain."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Grace": {
+                "image": "./images/portraits/Grace.jpeg",
+                "unused": [
+                    "May be pulled over for --- driving under the speed limit.",
+                    "Has read “White Fang” by Jack London 10 times.",
+                    "Wowed audiences with her amazing smile and engaging stage presence in 4 school musicals! – “The Wizard of Oz”, “Annie”, “Newsies” and “Oklahoma”!"
+                ],
+                "used": []
+            }
+        },
+        {
+            "David": {
+                "image": "./images/portraits/David.jpeg",
+                "unused": [
+                    "Maintained a 4.0 through his whole middle school career.",
+                    "Achieved the rank of eagle scout! Joining John, Dan, Nathan, Matthew and Spencer in a family eagle’s nest!",
+                    "Recently made the top premier team in his soccer club. (He will take anyone on in a battle for highest number of consecutive juggles with a soccer ball😊.)"
+                ],
+                "used": []
+            }
+        },
+        {
+            "Charlotte": {
+                "image": "./images/portraits/Charlotte.jpeg",
+                "unused": [
+                    "Is an amazing musician.  She plays the ukulele, piano, and harp and transposes pieces between the 3 with ease.",
+                    "Wants to pursue a career in dentistry.",
+                    "Has recently learned to love - not only riding but taking care of horses."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Benjamin": {
+                "image": "./images/portraits/Benji.jpeg",
+                "unused": [
+                    "Is a Lego Brick Master. He builds sets and accompanying cities and then has fun playing with them.",
+                    "He loves to bike and bikes close to 6 miles each day – riding to and from school and to the library.",
+                    "Has a fluffy, white best friend whose tail wags in sheer delight in his presence."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Matthew": {
+                "image": "./images/portraits/Matthew.jpeg",
+                "unused": [
+                    "Graduated with a Masters degrees in Landscape Architecture and Bioregional Planning.",
+                    "While waiting for his date to a formal dance, did flips in a tuxedo on the trampoline.",
+                    "Won a push up contest against Seniors and Juniors in an assembly as a Sophomore in high school.",
+                    "Served a 2 year mission to Spain."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Spencer": {
+                "image": "./images/portraits/Spencer.jpeg",
+                "unused": [
+                    "Read the sports page in the newspaper every morning when he was a little boy.",
+                    "Went to 30 Ohio State football games during his time in dental school.  (He sold 2 tickets for the game against Michigan for around $800.)",
+                    "Served a 2 year mission to Peru."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Cassie": {
+                "image": "./images/portraits/Cassie.jpeg",
+                "unused": [
+                    "Loves the Shakespeare play “Much Ado About Nothing”",
+                    "Traveled to New York in the summers during her high school years to the Joffrey Ballet School to study ballet.",
+                    "Major before switching to Dance was “Interior Design”."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Claire": {
+                "image": "./images/portraits/Claire.jpeg",
+                "unused": [
+                    "Has a twin sister named Lucy",
+                    "Wears blue glasses.",
+                    "Loves BOOKS!!!"
+                ],
+                "used": []
+            }
+        },
+        {
+            "Lucy": {
+                "image": "./images/portraits/Lucy.jpeg",
+                "unused": [
+                    "Has a twin sister named Claire.",
+                    "Wears yellow glasses.",
+                    "Loves puzzles with a passion."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Jack": {
+                "image": "./images/portraits/Jack.jpeg",
+                "unused": [
+                    "Is in a constant state of amazement as evidenced by the - wide eyed, raised eyebrow - look he sports.",
+                    "Is his Momma’s newest travel buddy.",
+                    "A cuddle bug who will always return a big grin if you smile at him."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Anne": {
+                "image": "./images/portraits/Anne.jpeg",
+                "unused": [
+                    "Watches nearly every Oscar “Best Picture” movie. Or at least as many as she can.",
+                    "Will challenge anyone here to a game of Boggle or Krypto!",
+                    "Favorite college course was “Philosophy of Mythology and Fairytales”.",
+                    "Works as a web developer for Gap on the Old Navy team."
+                ],
+                "used": []
+            }
+        },
+        {
+            "Paul": {
+                "image": "./images/portraits/Paul.jpeg",
+                "unused": [
+                    "Dream car – a used Prius – which means he is truly living the dream.",
+                    "Manages a team of software engineers in a company called STRIPE.",
+                    "Is a self-taught pianist and artist.",
+                    "A master Chess player and teacher!"
+                ],
+                "used": []
+            }
+        }
+    ]
+}
